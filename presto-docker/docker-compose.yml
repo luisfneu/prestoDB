@@ -1,18 +1,18 @@
 services:
   hive-metastore:
-    image: bitnami/hive-metastore:latest
+    image: apache/hive:latest
     container_name: hive-metastore
     environment:
       - HIVE_METASTORE_PORT_NUMBER=9083
       - HIVE_METASTORE_DATABASE_NAME=data_db
       - ALLOW_EMPTY_PASSWORD=yes
     volumes:
-      - ./hive/warehouse:/bitnami/hive/data
+      - ./hive/warehouse:/hive/data
     ports:
       - "9083:9083"
 
   presto:
-    image: prestosql/presto:latest
+    image: prestodb/presto:latest
     container_name: presto
     ports:
       - "8081:8081"

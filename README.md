@@ -9,17 +9,17 @@ Persist data in Hive or other
 Support SQL
 
 ## Folder
-
-## Docker
     presto-docker/
     ├── docker-compose.yml
     ├── hive/
-    │   └── warehouse/
+        └── warehouse/
     ├── etc/
-    │   ├── catalog/
-    │   │   └── hive.properties
-    │   └── config.properties
+        ├── catalog/
+        │   └── hive.properties
+        └── config.properties
 
+## Docker
+https://hub.docker.com/r/prestodb/presto
 
 ## Persist
 All data persisted in hive/warehouse/
