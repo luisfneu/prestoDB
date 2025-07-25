@@ -2,6 +2,8 @@
 https://prestodb.io/
 https://dzone.com/refcardz/getting-started-with-prestodb
 
+https://hive.apache.org/
+
 
 ## Objetivo
 Run PrestoDB in Docker
@@ -10,7 +12,7 @@ Support SQL
 
 ## Folder
     presto-docker/
-    ├── docker-compose.yml
+    ├── docker-compose.yaml
     ├── hive/
         └── warehouse/
     ├── etc/
