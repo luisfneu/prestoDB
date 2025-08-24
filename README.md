@@ -1,6 +1,7 @@
 # PrestoDB
 https://prestodb.io/
 https://dzone.com/refcardz/getting-started-with-prestodb
+https://prestodb.io/docs/current/installation/deployment.html#installing-presto
 
 https://hive.apache.org/
 
