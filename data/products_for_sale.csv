@@ -1,0 +1,1001 @@
+id,product_name,category,price,stock
+1,Product 1,Home,769.34,133
+2,Equipment 2,Toys,1828.43,142
+3,Equipment 3,Sports,872.52,198
+4,Equipment 4,Computers,128.77,168
+5,Accessory 5,Toys,3209.01,184
+6,Equipment 6,Home,3956.18,167
+7,Equipment 7,Computers,3457.44,179
+8,Device 8,Tools,4623.71,197
+9,Item 9,Home Appliances,4022.04,174
+10,Object 10,Home,2428.65,171
+11,Accessory 11,Toys,4224.22,121
+12,Product 12,Tools,2015.36,125
+13,Article 13,Electronics,3934.26,99
+14,Product 14,Computers,1702.02,1
+15,Device 15,Computers,2220.67,105
+16,Equipment 16,Computers,1505.55,131
+17,Object 17,Home,4157.35,145
+18,Accessory 18,Electronics,1991.39,186
+19,Object 19,Toys,3727.79,194
+20,Object 20,Home,510.21,100
+21,Item 21,Home Appliances,2911.25,17
+22,Object 22,Toys,2987.7,81
+23,Item 23,Tools,1672.97,77
+24,Equipment 24,Sports,1380.16,18
+25,Item 25,Home Appliances,4554.52,173
+26,Article 26,Computers,1029.07,42
+27,Equipment 27,Electronics,2099.02,101
+28,Equipment 28,Sports,2853.56,4
+29,Article 29,Sports,3391.71,71
+30,Accessory 30,Sports,3450.26,164
+31,Product 31,Sports,133.33,191
+32,Device 32,Tools,4176.78,97
+33,Article 33,Electronics,2731.95,8
+34,Device 34,Tools,94.22,48
+35,Item 35,Home,2091.42,7
+36,Device 36,Sports,4624.87,144
+37,Product 37,Electronics,1936.09,104
+38,Article 38,Computers,2964.91,167
+39,Accessory 39,Electronics,2907.03,124
+40,Object 40,Toys,4793.66,55
+41,Accessory 41,Home,3334.44,44
+42,Accessory 42,Computers,4010.23,31
+43,Article 43,Tools,1618.88,26
+44,Object 44,Home,328.08,18
+45,Equipment 45,Home Appliances,3452.3,132
+46,Object 46,Tools,3755.21,114
+47,Device 47,Home Appliances,1724.86,104
+48,Device 48,Sports,3126.06,47
+49,Object 49,Home,2850.79,31
+50,Object 50,Computers,3469.19,198
+51,Object 51,Home Appliances,2414.35,159
+52,Equipment 52,Tools,1853.41,179
+53,Article 53,Sports,1497.38,99
+54,Accessory 54,Toys,17.38,23
+55,Product 55,Computers,1297.84,26
+56,Item 56,Toys,4569.62,177
+57,Item 57,Home,2572.49,129
+58,Product 58,Toys,1279.58,100
+59,Device 59,Home,2836.27,169
+60,Article 60,Electronics,2786.21,189
+61,Object 61,Electronics,3282.26,187
+62,Accessory 62,Computers,4728.49,192
+63,Article 63,Electronics,143.83,95
+64,Article 64,Tools,2109.11,171
+65,Equipment 65,Tools,3904.21,98
+66,Object 66,Home,1830.04,183
+67,Article 67,Tools,4452.23,10
+68,Product 68,Toys,970.2,174
+69,Product 69,Tools,180.47,127
+70,Equipment 70,Computers,1925.23,181
+71,Product 71,Electronics,78.31,135
+72,Object 72,Electronics,2625.58,104
+73,Object 73,Sports,987.14,8
+74,Article 74,Tools,1920.32,9
+75,Device 75,Sports,3862.7,157
+76,Product 76,Home Appliances,2356.4,133
+77,Accessory 77,Computers,4413.85,106
+78,Item 78,Sports,2682.49,59
+79,Accessory 79,Computers,2149.39,67
+80,Product 80,Home,3737.52,31
+81,Product 81,Tools,4096.51,87
+82,Item 82,Sports,157.34,185
+83,Device 83,Computers,4108.18,101
+84,Article 84,Electronics,1359.73,34
+85,Article 85,Electronics,61.47,188
+86,Equipment 86,Tools,2907.05,144
+87,Product 87,Home Appliances,4118.32,84
+88,Device 88,Home,2615.82,3
+89,Accessory 89,Home Appliances,412.31,129
+90,Object 90,Sports,3383.88,179
+91,Object 91,Home Appliances,3277.12,40
+92,Object 92,Home,2992.93,121
+93,Product 93,Electronics,3223.44,75
+94,Accessory 94,Computers,965.3,103
+95,Object 95,Tools,3433.28,23
+96,Object 96,Electronics,2608.63,69
+97,Device 97,Tools,1635.69,32
+98,Accessory 98,Electronics,3685.1,116
+99,Product 99,Home,4055.67,25
+100,Article 100,Home,4690.44,88
+101,Device 101,Home,1059.78,131
+102,Product 102,Computers,3472.33,51
+103,Object 103,Home Appliances,2368.25,158
+104,Device 104,Tools,4491.3,155
+105,Article 105,Home,365.3,60
+106,Item 106,Home Appliances,77.5,104
+107,Equipment 107,Home Appliances,3324.63,109
+108,Item 108,Home,1095.15,57
+109,Object 109,Tools,877.21,0
+110,Accessory 110,Computers,224.33,122
+111,Device 111,Computers,4834.5,84
+112,Equipment 112,Home,1139.15,176
+113,Object 113,Sports,245.21,123
+114,Item 114,Tools,183.8,54
+115,Accessory 115,Computers,3722.6,184
+116,Item 116,Electronics,856.47,91
+117,Accessory 117,Computers,951.45,184
+118,Accessory 118,Toys,2801.57,30
+119,Product 119,Sports,225.19,181
+120,Accessory 120,Sports,676.99,183
+121,Equipment 121,Electronics,188.95,35
+122,Article 122,Sports,373.55,43
+123,Equipment 123,Sports,3954.8,23
+124,Item 124,Toys,688.87,162
+125,Equipment 125,Sports,982.39,92
+126,Equipment 126,Home,1853.63,102
+127,Product 127,Tools,4743.75,162
+128,Item 128,Home,1892.46,69
+129,Accessory 129,Tools,4300.88,57
+130,Equipment 130,Home Appliances,4984.73,3
+131,Article 131,Home Appliances,3559.0,61
+132,Accessory 132,Toys,2787.67,11
+133,Device 133,Tools,4452.99,95
+134,Accessory 134,Computers,4997.91,165
+135,Equipment 135,Home,993.68,50
+136,Object 136,Computers,4776.31,62
+137,Equipment 137,Electronics,1857.82,15
+138,Device 138,Home Appliances,663.63,13
+139,Object 139,Home,1091.72,66
+140,Accessory 140,Toys,998.45,187
+141,Item 141,Home,1160.16,3
+142,Device 142,Home,578.31,61
+143,Equipment 143,Home,318.31,16
+144,Accessory 144,Home Appliances,1700.8,129
+145,Equipment 145,Electronics,1558.38,151
+146,Item 146,Sports,4837.42,108
+147,Product 147,Sports,2793.86,36
+148,Device 148,Toys,811.59,48
+149,Product 149,Home,1086.14,66
+150,Device 150,Sports,4412.28,18
+151,Item 151,Tools,1948.34,2
+152,Equipment 152,Home Appliances,3396.05,169
+153,Product 153,Electronics,2728.35,92
+154,Article 154,Home,3565.48,119
+155,Equipment 155,Sports,2908.44,100
+156,Equipment 156,Electronics,1250.5,36
+157,Equipment 157,Home,779.2,71
+158,Product 158,Home Appliances,1325.39,122
+159,Accessory 159,Computers,4993.15,39
+160,Article 160,Home,1770.55,94
+161,Object 161,Sports,3552.29,74
+162,Device 162,Toys,3262.88,75
+163,Accessory 163,Toys,2906.08,144
+164,Object 164,Home,273.42,49
+165,Accessory 165,Home Appliances,3181.28,18
+166,Product 166,Home,3447.07,45
+167,Equipment 167,Toys,2971.37,156
+168,Article 168,Electronics,2779.35,100
+169,Article 169,Home Appliances,4706.88,181
+170,Article 170,Toys,689.93,51
+171,Device 171,Electronics,3072.83,199
+172,Accessory 172,Toys,4199.75,45
+173,Equipment 173,Home Appliances,472.87,29
+174,Equipment 174,Home,3523.38,75
+175,Article 175,Computers,38.96,144
+176,Object 176,Tools,3478.14,184
+177,Object 177,Home Appliances,4556.91,99
+178,Equipment 178,Home,4112.88,81
+179,Item 179,Toys,3902.63,156
+180,Object 180,Tools,3942.47,118
+181,Item 181,Tools,4683.83,147
+182,Product 182,Home Appliances,4213.74,172
+183,Item 183,Sports,67.63,2
+184,Equipment 184,Home,2071.02,161
+185,Device 185,Electronics,1003.65,129
+186,Object 186,Toys,88.64,126
+187,Item 187,Home Appliances,2414.42,105
+188,Item 188,Tools,3819.97,193
+189,Accessory 189,Tools,984.15,142
+190,Article 190,Computers,2469.49,169
+191,Product 191,Home Appliances,25.57,42
+192,Article 192,Home Appliances,787.23,183
+193,Accessory 193,Home Appliances,2698.06,86
+194,Item 194,Sports,2481.38,92
+195,Object 195,Tools,1670.3,193
+196,Accessory 196,Computers,1759.88,144
+197,Item 197,Home Appliances,2722.02,12
+198,Item 198,Tools,4818.82,89
+199,Article 199,Computers,2878.47,156
+200,Item 200,Tools,2282.37,44
+201,Device 201,Home Appliances,2631.56,136
+202,Item 202,Home,4339.32,40
+203,Device 203,Computers,2694.5,71
+204,Accessory 204,Toys,3911.11,128
+205,Equipment 205,Toys,4899.38,49
+206,Object 206,Home,1646.42,17
+207,Product 207,Sports,3337.93,56
+208,Product 208,Sports,2074.65,156
+209,Accessory 209,Electronics,4466.04,155
+210,Article 210,Sports,1547.18,97
+211,Accessory 211,Home Appliances,2704.23,0
+212,Accessory 212,Electronics,3491.48,97
+213,Accessory 213,Computers,462.13,160
+214,Object 214,Computers,4044.12,136
+215,Article 215,Electronics,1404.57,104
+216,Object 216,Home Appliances,358.67,117
+217,Device 217,Toys,3703.76,95
+218,Article 218,Electronics,939.92,136
+219,Article 219,Toys,2047.39,154
+220,Device 220,Toys,3329.22,110
+221,Product 221,Sports,229.27,107
+222,Article 222,Home,3505.81,52
+223,Accessory 223,Sports,2771.02,7
+224,Device 224,Computers,846.23,96
+225,Device 225,Computers,3580.15,21
+226,Accessory 226,Home Appliances,122.34,124
+227,Item 227,Home,4232.89,4
+228,Article 228,Tools,1526.16,136
+229,Accessory 229,Electronics,3506.49,70
+230,Article 230,Electronics,42.84,157
+231,Product 231,Toys,4901.62,162
+232,Product 232,Electronics,4083.03,88
+233,Device 233,Computers,4532.7,121
+234,Object 234,Electronics,385.63,29
+235,Accessory 235,Electronics,2951.09,83
+236,Item 236,Tools,89.99,187
+237,Product 237,Home Appliances,483.17,66
+238,Item 238,Tools,1383.71,111
+239,Item 239,Toys,1752.58,118
+240,Accessory 240,Sports,2054.55,193
+241,Object 241,Home Appliances,3614.71,165
+242,Equipment 242,Electronics,3487.12,0
+243,Object 243,Toys,2145.47,153
+244,Equipment 244,Sports,3946.09,136
+245,Accessory 245,Tools,15.79,33
+246,Item 246,Sports,2165.17,177
+247,Item 247,Home Appliances,2122.12,6
+248,Equipment 248,Toys,1371.96,38
+249,Device 249,Electronics,3419.96,114
+250,Item 250,Home Appliances,1606.85,146
+251,Product 251,Home Appliances,4558.06,45
+252,Item 252,Home Appliances,4110.66,6
+253,Product 253,Home,1610.59,186
+254,Object 254,Tools,2426.82,164
+255,Accessory 255,Toys,3710.28,100
+256,Device 256,Sports,3615.21,120
+257,Product 257,Computers,2952.4,11
+258,Device 258,Home Appliances,3753.52,160
+259,Article 259,Tools,4008.35,148
+260,Article 260,Home Appliances,833.24,140
+261,Item 261,Home Appliances,42.73,1
+262,Item 262,Tools,2569.54,192
+263,Product 263,Computers,13.56,86
+264,Product 264,Computers,2530.42,8
+265,Equipment 265,Home Appliances,3635.03,9
+266,Object 266,Tools,2596.47,194
+267,Object 267,Home,3143.84,138
+268,Product 268,Computers,4662.24,146
+269,Product 269,Electronics,4251.82,129
+270,Product 270,Home Appliances,2801.23,130
+271,Object 271,Tools,4022.84,112
+272,Equipment 272,Sports,4041.89,175
+273,Accessory 273,Electronics,2164.71,157
+274,Article 274,Toys,890.16,194
+275,Product 275,Sports,3253.31,1
+276,Product 276,Toys,40.96,93
+277,Item 277,Sports,4693.77,166
+278,Device 278,Toys,1787.66,156
+279,Equipment 279,Toys,1609.02,71
+280,Article 280,Home,4446.67,186
+281,Device 281,Computers,1393.6,123
+282,Object 282,Home Appliances,2682.19,46
+283,Device 283,Home Appliances,1199.25,137
+284,Equipment 284,Home Appliances,2824.49,145
+285,Product 285,Tools,290.52,61
+286,Accessory 286,Sports,1412.12,9
+287,Item 287,Home,4223.53,32
+288,Object 288,Home,4762.3,43
+289,Device 289,Home Appliances,4474.11,67
+290,Product 290,Home,560.53,180
+291,Equipment 291,Sports,2458.01,89
+292,Equipment 292,Sports,4416.72,73
+293,Product 293,Sports,3283.05,143
+294,Device 294,Home,1614.94,66
+295,Article 295,Toys,3371.53,22
+296,Equipment 296,Electronics,1538.27,133
+297,Item 297,Toys,4856.64,186
+298,Item 298,Sports,3291.39,148
+299,Equipment 299,Computers,4592.35,21
+300,Accessory 300,Toys,4499.8,80
+301,Item 301,Electronics,4390.71,78
+302,Accessory 302,Home,2444.28,198
+303,Product 303,Electronics,2231.47,64
+304,Equipment 304,Sports,825.4,123
+305,Equipment 305,Toys,2303.33,49
+306,Object 306,Computers,4148.76,75
+307,Equipment 307,Electronics,2245.1,172
+308,Accessory 308,Electronics,1915.97,54
+309,Equipment 309,Toys,2142.8,61
+310,Item 310,Tools,1751.5,30
+311,Device 311,Toys,2928.15,157
+312,Article 312,Computers,3091.61,43
+313,Accessory 313,Electronics,4797.77,118
+314,Equipment 314,Electronics,1386.17,118
+315,Device 315,Home Appliances,4363.45,185
+316,Equipment 316,Home,323.26,178
+317,Accessory 317,Tools,2270.69,84
+318,Device 318,Tools,3263.53,183
+319,Object 319,Toys,445.38,177
+320,Accessory 320,Electronics,4442.41,60
+321,Product 321,Home Appliances,4178.32,158
+322,Product 322,Home Appliances,852.96,127
+323,Accessory 323,Electronics,2482.45,16
+324,Object 324,Tools,1988.16,112
+325,Equipment 325,Computers,533.12,58
+326,Article 326,Tools,480.96,169
+327,Item 327,Sports,2786.17,147
+328,Object 328,Toys,1018.62,67
+329,Device 329,Tools,1823.82,104
+330,Accessory 330,Tools,1032.75,5
+331,Accessory 331,Home Appliances,1950.94,154
+332,Object 332,Electronics,1614.56,200
+333,Article 333,Home,2612.95,120
+334,Article 334,Home,1796.0,79
+335,Article 335,Home Appliances,1563.48,125
+336,Article 336,Computers,3663.07,151
+337,Accessory 337,Toys,2155.22,151
+338,Product 338,Tools,26.05,93
+339,Product 339,Electronics,1835.26,174
+340,Device 340,Toys,325.21,96
+341,Product 341,Home,197.26,56
+342,Accessory 342,Home,1833.35,188
+343,Accessory 343,Sports,1035.91,45
+344,Device 344,Home Appliances,80.99,167
+345,Object 345,Tools,1844.32,117
+346,Equipment 346,Electronics,2290.13,92
+347,Product 347,Home Appliances,2642.75,105
+348,Accessory 348,Home Appliances,1355.41,172
+349,Device 349,Home,2595.4,1
+350,Object 350,Sports,221.89,142
+351,Equipment 351,Computers,4104.49,122
+352,Equipment 352,Computers,916.36,136
+353,Article 353,Tools,378.84,81
+354,Device 354,Electronics,51.15,117
+355,Article 355,Tools,1005.95,172
+356,Product 356,Computers,4210.87,11
+357,Accessory 357,Computers,1195.84,189
+358,Device 358,Tools,136.08,164
+359,Item 359,Home Appliances,739.51,159
+360,Accessory 360,Home,337.81,20
+361,Item 361,Computers,1941.9,24
+362,Accessory 362,Toys,2635.42,137
+363,Article 363,Sports,2561.85,176
+364,Article 364,Tools,1020.71,194
+365,Equipment 365,Computers,4315.1,199
+366,Product 366,Sports,4862.09,109
+367,Device 367,Sports,3413.69,21
+368,Product 368,Sports,4842.34,72
+369,Object 369,Toys,1792.31,136
+370,Accessory 370,Home,1323.15,169
+371,Item 371,Toys,3869.75,187
+372,Item 372,Sports,1966.86,49
+373,Product 373,Home Appliances,3983.35,181
+374,Accessory 374,Electronics,4684.86,169
+375,Product 375,Computers,2174.76,122
+376,Device 376,Sports,538.25,80
+377,Accessory 377,Sports,2960.99,95
+378,Object 378,Computers,4982.6,81
+379,Item 379,Toys,2305.0,197
+380,Product 380,Computers,3119.74,147
+381,Object 381,Home Appliances,3064.37,41
+382,Article 382,Home Appliances,4968.96,172
+383,Object 383,Home Appliances,2477.14,170
+384,Device 384,Home Appliances,2749.99,165
+385,Device 385,Electronics,2345.11,189
+386,Product 386,Toys,2284.01,148
+387,Device 387,Home Appliances,1303.2,123
+388,Accessory 388,Tools,2099.76,150
+389,Item 389,Toys,1052.94,115
+390,Product 390,Home,1805.9,172
+391,Equipment 391,Electronics,3927.65,50
+392,Product 392,Electronics,828.96,115
+393,Equipment 393,Sports,2639.34,98
+394,Device 394,Home,2677.63,153
+395,Product 395,Tools,592.47,155
+396,Device 396,Tools,4696.96,4
+397,Accessory 397,Electronics,359.06,27
+398,Object 398,Home Appliances,914.83,110
+399,Accessory 399,Sports,3311.79,29
+400,Device 400,Home Appliances,2842.62,192
+401,Item 401,Home Appliances,4990.6,64
+402,Product 402,Tools,1767.99,142
+403,Equipment 403,Toys,2031.94,21
+404,Equipment 404,Home Appliances,633.73,156
+405,Item 405,Computers,2005.39,27
+406,Accessory 406,Computers,601.6,80
+407,Object 407,Sports,3272.93,118
+408,Product 408,Sports,973.63,101
+409,Article 409,Home Appliances,2980.19,133
+410,Device 410,Tools,3028.21,185
+411,Product 411,Tools,2526.49,15
+412,Object 412,Tools,2631.9,119
+413,Item 413,Tools,3918.68,34
+414,Item 414,Home,2033.3,86
+415,Accessory 415,Home,2988.29,121
+416,Item 416,Computers,1322.36,26
+417,Article 417,Tools,2056.11,77
+418,Device 418,Sports,977.59,165
+419,Object 419,Computers,1614.86,54
+420,Accessory 420,Home,3698.25,32
+421,Equipment 421,Tools,4533.18,151
+422,Object 422,Sports,3698.61,5
+423,Article 423,Sports,3826.46,17
+424,Accessory 424,Computers,1465.9,15
+425,Equipment 425,Home Appliances,4874.29,35
+426,Accessory 426,Home,1914.22,45
+427,Product 427,Electronics,961.09,143
+428,Equipment 428,Home,1176.68,193
+429,Object 429,Computers,2687.05,86
+430,Equipment 430,Sports,4412.7,9
+431,Item 431,Home Appliances,4936.17,18
+432,Equipment 432,Tools,2084.05,122
+433,Equipment 433,Home Appliances,562.47,83
+434,Object 434,Toys,524.31,49
+435,Product 435,Electronics,703.96,83
+436,Accessory 436,Home Appliances,3529.85,76
+437,Device 437,Electronics,4218.62,157
+438,Accessory 438,Electronics,3494.37,112
+439,Article 439,Home Appliances,2911.78,101
+440,Device 440,Toys,1670.93,189
+441,Object 441,Computers,4634.85,138
+442,Product 442,Home Appliances,4340.11,200
+443,Device 443,Electronics,289.09,19
+444,Device 444,Computers,2549.88,86
+445,Article 445,Tools,3133.99,134
+446,Product 446,Toys,4296.5,189
+447,Item 447,Electronics,1900.34,29
+448,Accessory 448,Tools,4020.79,163
+449,Product 449,Computers,4495.23,97
+450,Device 450,Sports,3457.31,33
+451,Accessory 451,Home Appliances,3029.55,172
+452,Article 452,Tools,2643.17,31
+453,Object 453,Sports,1324.68,164
+454,Equipment 454,Home Appliances,2820.15,29
+455,Object 455,Toys,1745.06,10
+456,Item 456,Home Appliances,3243.83,105
+457,Product 457,Computers,3849.91,45
+458,Accessory 458,Electronics,1438.62,31
+459,Item 459,Electronics,150.84,122
+460,Item 460,Home Appliances,2433.23,31
+461,Object 461,Tools,1099.61,177
+462,Object 462,Home Appliances,3356.0,59
+463,Product 463,Home Appliances,54.89,160
+464,Device 464,Tools,3890.24,101
+465,Accessory 465,Toys,146.26,157
+466,Equipment 466,Tools,4949.57,43
+467,Item 467,Home,4637.78,33
+468,Object 468,Home Appliances,1852.08,198
+469,Device 469,Sports,1679.55,114
+470,Product 470,Home,3899.14,142
+471,Equipment 471,Toys,4137.16,23
+472,Article 472,Electronics,1757.98,38
+473,Device 473,Computers,4451.79,187
+474,Device 474,Tools,1908.72,46
+475,Item 475,Home Appliances,588.21,194
+476,Item 476,Sports,3217.79,118
+477,Object 477,Home Appliances,2760.19,56
+478,Product 478,Sports,227.15,95
+479,Device 479,Sports,3030.35,53
+480,Item 480,Home Appliances,2333.15,42
+481,Device 481,Toys,2000.04,3
+482,Accessory 482,Electronics,1763.2,150
+483,Object 483,Electronics,4400.3,186
+484,Equipment 484,Home Appliances,3661.63,93
+485,Device 485,Home,80.25,62
+486,Accessory 486,Computers,438.7,57
+487,Article 487,Toys,830.05,4
+488,Device 488,Toys,4818.76,133
+489,Object 489,Home,2953.41,13
+490,Device 490,Tools,552.63,58
+491,Article 491,Sports,3619.36,28
+492,Product 492,Computers,3424.69,73
+493,Accessory 493,Toys,1266.23,185
+494,Item 494,Home,4265.34,76
+495,Object 495,Tools,2656.29,82
+496,Product 496,Home,1871.17,144
+497,Item 497,Sports,4925.41,124
+498,Accessory 498,Computers,1566.12,183
+499,Equipment 499,Toys,1907.53,52
+500,Equipment 500,Sports,2768.23,123
+501,Object 501,Electronics,4237.98,34
+502,Accessory 502,Toys,4724.22,168
+503,Product 503,Toys,3958.13,24
+504,Object 504,Tools,532.59,157
+505,Article 505,Home,4969.71,97
+506,Item 506,Tools,3820.32,10
+507,Equipment 507,Computers,3182.21,99
+508,Accessory 508,Electronics,3072.02,200
+509,Article 509,Home,139.13,37
+510,Product 510,Toys,3216.34,127
+511,Object 511,Computers,426.18,148
+512,Equipment 512,Electronics,73.82,136
+513,Article 513,Tools,4479.36,118
+514,Equipment 514,Home Appliances,2993.85,51
+515,Object 515,Tools,3766.5,186
+516,Equipment 516,Toys,2163.42,52
+517,Object 517,Home,3991.57,2
+518,Accessory 518,Electronics,2310.28,10
+519,Accessory 519,Home,4553.94,120
+520,Accessory 520,Sports,878.94,27
+521,Accessory 521,Home,3206.69,96
+522,Object 522,Home,269.34,29
+523,Device 523,Home,820.18,198
+524,Equipment 524,Home,1864.25,133
+525,Article 525,Home,1384.23,72
+526,Equipment 526,Computers,1133.22,111
+527,Item 527,Toys,996.5,76
+528,Article 528,Home,2824.52,133
+529,Device 529,Home Appliances,3359.72,76
+530,Item 530,Tools,101.66,104
+531,Item 531,Sports,1064.23,87
+532,Item 532,Sports,2252.45,84
+533,Object 533,Computers,3690.01,13
+534,Article 534,Home Appliances,1326.27,22
+535,Device 535,Sports,102.37,87
+536,Object 536,Home,2572.89,50
+537,Object 537,Computers,4595.37,169
+538,Object 538,Toys,3762.73,126
+539,Equipment 539,Home,1999.14,38
+540,Item 540,Electronics,1821.29,128
+541,Accessory 541,Sports,4805.69,190
+542,Device 542,Computers,1195.39,106
+543,Item 543,Home,3327.85,110
+544,Device 544,Electronics,1229.36,134
+545,Product 545,Tools,4765.71,127
+546,Object 546,Tools,4422.98,77
+547,Article 547,Computers,3816.45,75
+548,Article 548,Home Appliances,1637.78,15
+549,Device 549,Electronics,4828.89,3
+550,Article 550,Tools,3778.54,26
+551,Device 551,Tools,3098.42,135
+552,Product 552,Home Appliances,1130.15,91
+553,Object 553,Sports,4779.11,104
+554,Equipment 554,Sports,3783.63,47
+555,Device 555,Home,1907.12,57
+556,Object 556,Toys,3717.28,33
+557,Item 557,Electronics,3064.18,187
+558,Equipment 558,Home,2018.75,108
+559,Item 559,Home Appliances,3864.04,151
+560,Object 560,Tools,3605.28,79
+561,Article 561,Sports,697.81,26
+562,Product 562,Tools,538.37,122
+563,Accessory 563,Toys,4570.23,46
+564,Product 564,Sports,2915.81,27
+565,Item 565,Sports,1140.18,145
+566,Article 566,Toys,4235.76,200
+567,Device 567,Home Appliances,3853.54,154
+568,Article 568,Computers,484.66,6
+569,Article 569,Tools,2065.57,74
+570,Object 570,Tools,3957.1,90
+571,Device 571,Home Appliances,2322.67,77
+572,Product 572,Home,1297.31,127
+573,Item 573,Toys,4685.08,37
+574,Product 574,Electronics,1909.04,11
+575,Accessory 575,Home Appliances,1991.07,126
+576,Item 576,Toys,4532.01,96
+577,Product 577,Tools,1899.45,157
+578,Device 578,Tools,3469.01,10
+579,Item 579,Toys,2204.71,177
+580,Equipment 580,Sports,3280.15,193
+581,Accessory 581,Home,4340.78,166
+582,Article 582,Sports,459.35,44
+583,Item 583,Electronics,1770.73,51
+584,Product 584,Toys,2545.65,60
+585,Article 585,Sports,1404.1,195
+586,Device 586,Home,1659.57,195
+587,Article 587,Home Appliances,1977.23,83
+588,Accessory 588,Home Appliances,659.39,177
+589,Item 589,Sports,2973.29,74
+590,Object 590,Tools,4243.7,152
+591,Accessory 591,Toys,629.34,104
+592,Item 592,Home,3290.37,30
+593,Object 593,Home,937.93,5
+594,Accessory 594,Home,4968.56,66
+595,Article 595,Sports,3944.81,17
+596,Accessory 596,Toys,4324.22,112
+597,Equipment 597,Home,3301.5,77
+598,Device 598,Home Appliances,704.05,25
+599,Article 599,Toys,3513.5,108
+600,Article 600,Tools,978.21,38
+601,Product 601,Electronics,3476.67,188
+602,Object 602,Home Appliances,1222.57,151
+603,Equipment 603,Computers,1522.63,14
+604,Equipment 604,Home,1816.78,111
+605,Device 605,Electronics,2574.29,38
+606,Article 606,Home Appliances,3795.03,185
+607,Equipment 607,Electronics,3086.16,9
+608,Object 608,Home,30.34,174
+609,Object 609,Computers,2565.13,174
+610,Product 610,Electronics,4729.19,4
+611,Object 611,Sports,3513.96,10
+612,Object 612,Tools,3681.89,198
+613,Article 613,Computers,4106.76,191
+614,Item 614,Tools,3231.29,67
+615,Article 615,Tools,2159.06,137
+616,Item 616,Electronics,3128.64,74
+617,Item 617,Home Appliances,3335.7,94
+618,Device 618,Electronics,3814.11,5
+619,Accessory 619,Tools,3602.6,133
+620,Article 620,Computers,1077.26,24
+621,Item 621,Sports,4744.43,121
+622,Device 622,Computers,1275.91,19
+623,Device 623,Sports,912.95,113
+624,Article 624,Electronics,672.71,30
+625,Accessory 625,Computers,4578.96,159
+626,Equipment 626,Electronics,2140.8,197
+627,Product 627,Home,600.92,117
+628,Equipment 628,Toys,544.08,41
+629,Object 629,Home,1571.75,75
+630,Object 630,Toys,3569.28,79
+631,Product 631,Home,665.82,60
+632,Equipment 632,Computers,906.37,68
+633,Accessory 633,Electronics,3550.77,173
+634,Equipment 634,Sports,2614.75,141
+635,Item 635,Toys,139.1,190
+636,Object 636,Tools,2174.96,94
+637,Object 637,Electronics,2916.49,165
+638,Object 638,Sports,133.59,140
+639,Item 639,Home,615.91,104
+640,Item 640,Toys,3433.31,81
+641,Product 641,Home,198.92,190
+642,Product 642,Tools,4565.37,70
+643,Equipment 643,Home Appliances,4119.79,4
+644,Item 644,Toys,4608.24,159
+645,Article 645,Sports,4781.47,135
+646,Item 646,Home,3940.25,84
+647,Equipment 647,Sports,1530.19,86
+648,Item 648,Home Appliances,131.48,112
+649,Article 649,Electronics,3355.39,139
+650,Equipment 650,Computers,3428.45,141
+651,Product 651,Home,3104.16,100
+652,Accessory 652,Home,3463.36,151
+653,Accessory 653,Home,1296.53,193
+654,Item 654,Sports,2446.66,126
+655,Item 655,Home Appliances,4087.05,111
+656,Article 656,Electronics,1751.08,184
+657,Product 657,Home,467.55,151
+658,Article 658,Home Appliances,787.76,92
+659,Item 659,Toys,3488.95,99
+660,Equipment 660,Toys,579.35,162
+661,Equipment 661,Tools,1450.1,75
+662,Item 662,Electronics,2847.36,155
+663,Device 663,Home Appliances,3702.66,152
+664,Equipment 664,Home,126.81,189
+665,Equipment 665,Tools,3809.05,196
+666,Equipment 666,Toys,3464.05,39
+667,Accessory 667,Sports,724.75,55
+668,Product 668,Computers,3674.73,96
+669,Object 669,Computers,4941.31,14
+670,Product 670,Home,3903.38,190
+671,Equipment 671,Home,4066.59,139
+672,Accessory 672,Toys,3563.06,118
+673,Article 673,Sports,4837.05,20
+674,Accessory 674,Home Appliances,4378.09,22
+675,Device 675,Tools,1065.83,53
+676,Item 676,Sports,2719.51,86
+677,Item 677,Computers,3412.03,94
+678,Device 678,Home Appliances,1378.59,123
+679,Device 679,Sports,3194.53,67
+680,Product 680,Toys,954.43,65
+681,Object 681,Electronics,3919.38,79
+682,Equipment 682,Computers,2319.03,20
+683,Accessory 683,Electronics,3914.75,39
+684,Accessory 684,Tools,4059.76,128
+685,Device 685,Home Appliances,903.63,190
+686,Accessory 686,Tools,1003.65,72
+687,Accessory 687,Home Appliances,975.21,14
+688,Item 688,Computers,3407.67,164
+689,Device 689,Home Appliances,1110.69,136
+690,Accessory 690,Home,3327.63,63
+691,Article 691,Toys,507.03,130
+692,Equipment 692,Home,2533.94,48
+693,Equipment 693,Computers,3317.77,76
+694,Article 694,Computers,3669.13,121
+695,Item 695,Computers,1362.39,119
+696,Item 696,Home Appliances,1419.2,150
+697,Equipment 697,Computers,525.31,103
+698,Product 698,Electronics,4367.3,147
+699,Article 699,Home Appliances,1325.24,94
+700,Device 700,Electronics,459.52,90
+701,Article 701,Computers,2536.59,79
+702,Equipment 702,Electronics,899.03,197
+703,Object 703,Tools,2517.5,182
+704,Equipment 704,Tools,2233.32,81
+705,Equipment 705,Tools,596.2,31
+706,Object 706,Electronics,3284.61,151
+707,Device 707,Computers,1397.08,139
+708,Product 708,Home Appliances,132.28,144
+709,Item 709,Home,560.48,200
+710,Product 710,Electronics,1959.54,109
+711,Item 711,Tools,3308.44,52
+712,Equipment 712,Electronics,918.63,128
+713,Object 713,Tools,3811.2,62
+714,Device 714,Computers,1292.93,61
+715,Device 715,Tools,2978.47,92
+716,Product 716,Sports,1502.95,18
+717,Device 717,Electronics,3393.08,91
+718,Accessory 718,Sports,3081.4,75
+719,Object 719,Sports,3341.58,137
+720,Item 720,Electronics,3803.96,146
+721,Object 721,Sports,436.11,161
+722,Product 722,Toys,2212.8,167
+723,Device 723,Home,2035.79,171
+724,Item 724,Toys,2398.23,100
+725,Object 725,Sports,2697.26,128
+726,Product 726,Sports,120.44,42
+727,Item 727,Computers,4124.93,66
+728,Item 728,Home,3039.77,126
+729,Device 729,Computers,2081.27,105
+730,Device 730,Toys,859.18,145
+731,Product 731,Electronics,1585.47,132
+732,Product 732,Electronics,4313.35,128
+733,Device 733,Tools,3889.47,39
+734,Equipment 734,Toys,2415.08,117
+735,Product 735,Tools,686.0,140
+736,Product 736,Tools,4940.44,14
+737,Item 737,Computers,4743.64,150
+738,Accessory 738,Computers,4035.17,117
+739,Product 739,Tools,889.91,146
+740,Device 740,Computers,2760.3,152
+741,Device 741,Sports,1612.88,31
+742,Device 742,Electronics,3500.26,106
+743,Object 743,Toys,3174.39,125
+744,Item 744,Sports,975.29,38
+745,Accessory 745,Computers,4674.5,46
+746,Accessory 746,Sports,4417.21,188
+747,Accessory 747,Electronics,3319.16,124
+748,Device 748,Sports,4677.42,116
+749,Device 749,Computers,652.82,179
+750,Equipment 750,Sports,3636.92,76
+751,Accessory 751,Home,4731.12,61
+752,Product 752,Tools,993.49,194
+753,Object 753,Home Appliances,4720.25,167
+754,Equipment 754,Computers,4256.04,41
+755,Article 755,Home,3035.68,127
+756,Object 756,Toys,3165.98,156
+757,Article 757,Home,578.15,135
+758,Article 758,Toys,1950.87,25
+759,Article 759,Home Appliances,4548.09,0
+760,Device 760,Home Appliances,3451.11,54
+761,Device 761,Computers,2641.78,41
+762,Product 762,Toys,187.49,72
+763,Product 763,Toys,4759.87,12
+764,Device 764,Electronics,2187.94,11
+765,Device 765,Home,3117.54,136
+766,Equipment 766,Toys,4971.27,25
+767,Object 767,Toys,232.68,182
+768,Accessory 768,Home,3411.27,112
+769,Equipment 769,Sports,1120.36,186
+770,Item 770,Tools,663.71,65
+771,Equipment 771,Home Appliances,2310.83,92
+772,Article 772,Electronics,3607.72,127
+773,Product 773,Toys,11.38,141
+774,Equipment 774,Electronics,1328.28,47
+775,Accessory 775,Home,4264.66,128
+776,Product 776,Electronics,3929.5,116
+777,Accessory 777,Electronics,1537.37,119
+778,Object 778,Tools,2227.04,13
+779,Accessory 779,Home Appliances,4724.71,9
+780,Object 780,Sports,3675.68,88
+781,Product 781,Electronics,672.59,156
+782,Accessory 782,Tools,3162.72,162
+783,Equipment 783,Electronics,2821.29,4
+784,Equipment 784,Home Appliances,1114.82,161
+785,Equipment 785,Tools,3032.41,36
+786,Item 786,Tools,3607.89,62
+787,Device 787,Tools,3084.08,9
+788,Device 788,Toys,4415.35,150
+789,Equipment 789,Toys,4838.92,121
+790,Device 790,Home Appliances,1579.46,13
+791,Product 791,Sports,3667.35,179
+792,Item 792,Sports,1800.68,52
+793,Equipment 793,Computers,2885.92,181
+794,Article 794,Toys,4346.34,129
+795,Article 795,Toys,878.47,14
+796,Item 796,Toys,3634.9,13
+797,Product 797,Home,1713.5,159
+798,Item 798,Toys,4210.27,26
+799,Object 799,Toys,791.15,170
+800,Device 800,Home,4662.36,78
+801,Object 801,Tools,52.76,29
+802,Item 802,Tools,1394.53,181
+803,Equipment 803,Home,2209.57,114
+804,Item 804,Tools,326.75,137
+805,Object 805,Home,2428.9,200
+806,Item 806,Home,18.93,179
+807,Article 807,Home Appliances,3737.73,145
+808,Device 808,Home,1881.28,78
+809,Equipment 809,Home,2391.14,166
+810,Item 810,Home,2474.05,46
+811,Object 811,Tools,3328.42,47
+812,Object 812,Toys,397.47,197
+813,Accessory 813,Electronics,3848.41,107
+814,Item 814,Computers,2803.66,144
+815,Equipment 815,Tools,3322.97,160
+816,Object 816,Home,601.89,17
+817,Item 817,Electronics,4667.45,198
+818,Equipment 818,Home,1040.19,199
+819,Item 819,Sports,1830.05,87
+820,Accessory 820,Home,2706.63,137
+821,Accessory 821,Home Appliances,1965.93,163
+822,Object 822,Home,92.52,69
+823,Device 823,Computers,289.2,41
+824,Article 824,Home Appliances,634.52,64
+825,Article 825,Tools,4185.81,15
+826,Device 826,Sports,2904.63,75
+827,Article 827,Toys,1547.62,34
+828,Equipment 828,Home,1659.75,148
+829,Item 829,Tools,4371.47,136
+830,Object 830,Tools,2472.74,173
+831,Device 831,Home Appliances,4562.54,69
+832,Accessory 832,Home Appliances,2622.34,140
+833,Accessory 833,Toys,2432.23,13
+834,Product 834,Electronics,2955.93,85
+835,Article 835,Home Appliances,4973.92,118
+836,Item 836,Sports,4870.83,138
+837,Device 837,Toys,3578.32,105
+838,Product 838,Home,4721.56,64
+839,Object 839,Tools,682.4,92
+840,Equipment 840,Home,3624.28,80
+841,Device 841,Tools,655.95,21
+842,Equipment 842,Tools,3453.72,193
+843,Article 843,Computers,1637.34,142
+844,Accessory 844,Home Appliances,1878.41,112
+845,Equipment 845,Sports,4148.22,149
+846,Equipment 846,Home Appliances,899.6,53
+847,Equipment 847,Sports,4194.42,170
+848,Article 848,Home Appliances,3380.53,153
+849,Product 849,Sports,282.52,49
+850,Accessory 850,Toys,1105.09,26
+851,Product 851,Toys,346.0,96
+852,Product 852,Electronics,1906.57,19
+853,Equipment 853,Sports,1938.1,31
+854,Equipment 854,Home Appliances,1153.99,30
+855,Article 855,Tools,2685.49,113
+856,Equipment 856,Computers,3742.89,3
+857,Device 857,Tools,2140.14,183
+858,Article 858,Sports,1949.9,43
+859,Device 859,Tools,2085.17,76
+860,Item 860,Tools,2774.47,116
+861,Device 861,Electronics,3326.61,149
+862,Device 862,Electronics,3549.84,96
+863,Object 863,Tools,391.83,75
+864,Device 864,Electronics,1880.77,21
+865,Product 865,Sports,1866.21,181
+866,Article 866,Home Appliances,2167.89,26
+867,Article 867,Toys,1504.6,47
+868,Equipment 868,Home,2262.53,148
+869,Product 869,Tools,3236.48,148
+870,Device 870,Home,824.99,132
+871,Article 871,Tools,3113.1,94
+872,Product 872,Home Appliances,1881.68,25
+873,Product 873,Computers,1487.69,16
+874,Article 874,Electronics,3177.46,5
+875,Equipment 875,Tools,1557.82,118
+876,Item 876,Electronics,4002.58,115
+877,Device 877,Toys,2791.58,35
+878,Product 878,Tools,3130.22,163
+879,Equipment 879,Tools,4413.09,119
+880,Object 880,Toys,3203.64,59
+881,Article 881,Home,4489.64,21
+882,Product 882,Electronics,2270.59,47
+883,Article 883,Toys,4928.15,74
+884,Article 884,Home Appliances,3253.22,55
+885,Item 885,Sports,4766.92,29
+886,Accessory 886,Tools,2746.32,172
+887,Accessory 887,Toys,1240.71,167
+888,Product 888,Electronics,625.04,53
+889,Equipment 889,Home Appliances,3091.31,86
+890,Equipment 890,Home Appliances,1438.02,131
+891,Article 891,Sports,15.4,167
+892,Article 892,Electronics,4118.35,114
+893,Device 893,Home Appliances,1280.64,124
+894,Object 894,Home Appliances,391.58,102
+895,Object 895,Tools,1349.72,128
+896,Accessory 896,Electronics,672.22,77
+897,Object 897,Home,4616.26,22
+898,Equipment 898,Electronics,4926.0,22
+899,Accessory 899,Sports,1289.42,150
+900,Item 900,Toys,1727.92,126
+901,Product 901,Toys,3664.65,144
+902,Product 902,Sports,4355.36,102
+903,Product 903,Electronics,357.73,112
+904,Accessory 904,Home,2369.57,197
+905,Product 905,Electronics,3421.44,55
+906,Item 906,Sports,1568.04,23
+907,Accessory 907,Sports,905.66,113
+908,Device 908,Computers,2746.11,193
+909,Object 909,Electronics,723.05,98
+910,Product 910,Toys,4586.25,102
+911,Article 911,Toys,1159.46,145
+912,Item 912,Home Appliances,1202.05,158
+913,Article 913,Home,3594.31,142
+914,Article 914,Computers,4722.72,144
+915,Object 915,Home Appliances,913.01,64
+916,Object 916,Home,632.45,181
+917,Equipment 917,Home,2177.71,161
+918,Accessory 918,Home,2975.39,4
+919,Product 919,Home,2309.47,93
+920,Item 920,Tools,4348.32,42
+921,Item 921,Toys,3521.61,173
+922,Device 922,Computers,4441.93,91
+923,Accessory 923,Home Appliances,1039.24,85
+924,Item 924,Home Appliances,4287.31,104
+925,Article 925,Computers,2688.37,174
+926,Object 926,Home Appliances,1604.78,47
+927,Item 927,Sports,3625.09,179
+928,Device 928,Computers,1778.96,146
+929,Object 929,Electronics,1857.53,100
+930,Accessory 930,Home Appliances,1517.7,160
+931,Article 931,Toys,2663.43,80
+932,Equipment 932,Home,1936.99,117
+933,Accessory 933,Home Appliances,2605.09,171
+934,Product 934,Toys,2790.4,76
+935,Item 935,Home,4776.41,125
+936,Article 936,Toys,1322.79,3
+937,Accessory 937,Home,3643.84,88
+938,Item 938,Home,4343.56,163
+939,Article 939,Computers,3180.24,120
+940,Device 940,Tools,187.27,167
+941,Equipment 941,Computers,3760.8,31
+942,Item 942,Toys,3845.27,180
+943,Article 943,Home,3142.06,78
+944,Device 944,Sports,2098.27,136
+945,Object 945,Home Appliances,1202.9,110
+946,Item 946,Computers,2583.64,170
+947,Equipment 947,Computers,4581.83,132
+948,Item 948,Home Appliances,2281.81,89
+949,Device 949,Tools,1543.67,166
+950,Device 950,Sports,713.34,58
+951,Equipment 951,Toys,3926.0,170
+952,Equipment 952,Home,1538.57,149
+953,Item 953,Sports,4820.54,35
+954,Device 954,Home,2275.92,75
+955,Equipment 955,Toys,1016.59,18
+956,Equipment 956,Sports,2742.24,124
+957,Accessory 957,Electronics,1305.12,80
+958,Device 958,Home,3567.56,166
+959,Device 959,Computers,3496.04,24
+960,Item 960,Home,2590.8,36
+961,Accessory 961,Toys,4538.61,117
+962,Accessory 962,Home,3894.14,56
+963,Equipment 963,Electronics,908.93,78
+964,Accessory 964,Home Appliances,4574.75,171
+965,Device 965,Electronics,321.53,87
+966,Product 966,Computers,1738.0,27
+967,Device 967,Electronics,4844.87,69
+968,Product 968,Electronics,1754.85,6
+969,Accessory 969,Home Appliances,920.28,52
+970,Product 970,Home Appliances,4316.52,197
+971,Device 971,Electronics,1185.48,35
+972,Accessory 972,Electronics,208.74,189
+973,Product 973,Sports,2852.38,122
+974,Accessory 974,Home,3534.92,82
+975,Equipment 975,Tools,2572.81,23
+976,Product 976,Electronics,710.99,10
+977,Article 977,Sports,4417.61,189
+978,Device 978,Electronics,1170.46,89
+979,Item 979,Tools,1092.11,155
+980,Object 980,Toys,4513.83,63
+981,Article 981,Computers,4724.86,23
+982,Accessory 982,Home Appliances,2532.25,42
+983,Item 983,Home,3599.13,141
+984,Accessory 984,Computers,2820.87,106
+985,Article 985,Computers,1645.82,80
+986,Equipment 986,Home,4563.49,54
+987,Object 987,Home,1483.04,95
+988,Product 988,Home Appliances,3672.23,52
+989,Product 989,Toys,4786.02,85
+990,Item 990,Electronics,4053.33,153
+991,Item 991,Electronics,2639.68,63
+992,Accessory 992,Computers,561.22,69
+993,Object 993,Home,3056.22,55
+994,Item 994,Home,1084.8,108
+995,Object 995,Home,4778.9,98
+996,Object 996,Electronics,1555.22,190
+997,Equipment 997,Tools,1191.33,84
+998,Object 998,Electronics,4867.82,176
+999,Equipment 999,Toys,2340.12,97
+1000,Object 1000,Home,4353.64,91
