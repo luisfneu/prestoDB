@@ -1,0 +1,22 @@
+services:
+  hive-metastore:
+    image: apache/hive:4.0.1
+    container_name: hive-metastore
+    environment:
+      - HIVE_METASTORE_PORT_NUMBER=9083
+      - HIVE_METASTORE_DATABASE_NAME=data_db
+      - ALLOW_EMPTY_PASSWORD=yes
+    volumes:
+      - ./hive/warehouse:/hive/data
+    ports:
+      - "9083:9083"
+
+  presto:
+    image: prestodb/presto:latest
+    container_name: presto
+    ports:
+      - "8082:8082"
+    volumes:
+      - ./etc:/opt/presto/etc
+    depends_on:
+      - hive-metastore

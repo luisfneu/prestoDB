@@ -3,7 +3,6 @@
 *.swp
 *.rpm
 *.egg
-*.yaml
 *.bak
 prestoadmin.egg-info/
 .tox/
