@@ -25,5 +25,6 @@ if __name__ == "__main__":
     p.add_argument("--port", type=int, default=8080)
     p.add_argument("--catalog", default="hive")
     p.add_argument("--schema", default="products")
+    p.add_argument("--schema", default="category")
     args = p.parse_args()
     run_query(args.host, args.sql, args.port, args.catalog, args.schema)
