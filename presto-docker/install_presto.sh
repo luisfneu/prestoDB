@@ -10,7 +10,7 @@ aws s3 cp "s3://${CONFIG_BUCKET}/bootstrap/docker-compose.yml" /opt/presto-boots
 aws s3 cp "s3://${CONFIG_BUCKET}/bootstrap/etc/" /opt/presto-bootstrap/etc/ --recursive
 
 # Exporta região para hive.properties (usando envsubst-like)
-AWS_REGION="$(curl -s http://169.254.169.254/latest/dynamic/instance-identity/document | jq -r .region)"
+AWS_REGION="us-west-2"
 sed -i "s|\${AWS_REGION}|${AWS_REGION}|g" /opt/presto-bootstrap/etc/catalog/hive.properties
 
 # Instala Docker + Compose plugin (Amazon Linux 2023)
