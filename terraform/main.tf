@@ -87,12 +87,12 @@ resource "aws_iam_role_policy" "glue_crawler_policy" {
 }
 
 resource "aws_glue_crawler" "nyc" {
-  name         = "${var.name_prefix}-nyc-crawler"
+  name         = "${var.name_prefix}-store-crawler"
   role         = aws_iam_role.glue_crawler_role.arn
   database_name = aws_glue_catalog_database.nyc.name
 
   s3_target {
-    path = "s3://${aws_s3_bucket.data.id}/nyc/"
+    path = "s3://${aws_s3_bucket.data.id}/store/"
   }
 
   schedule = "cron(0/30 * * * ? *)" # a cada 30 minutos
@@ -173,7 +173,7 @@ resource "aws_iam_instance_profile" "ec2_profile" {
 }
 data "aws_ami" "al2023" {
   most_recent = true
-  owners      = ["137112412989"] # Amazon
+  owners      = ["137112412989"]
   filter {
     name   = "name"
     values = ["al2023-ami-*-x86_64"]
@@ -203,7 +203,7 @@ output "presto_public_dns" {
 }
 
 output "presto_url" {
-  value = "http://${aws_instance.presto.public_dns}:8080"
+  value = "http://${aws_instance.presto.public_dns}:8082"
 }
 
 output "data_bucket" {
