@@ -1,11 +1,16 @@
+CREATE SCHEMA hive.local
+WITH (location = 'file:///hive/warehouse:/hive/data');
+
+
+
 CREATE TABLE default.products (
-    id INTEGER,
+    id VARCHAR,
     product_name VARCHAR,
     category VARCHAR,
-    price DOUBLE,
-    stock INTEGER
+    price VARCHAR,
+    stock VARCHAR
 )
 WITH (
     format = 'CSV',
-    external_location = 'file:///opt/homebrew/Cellar/prestodb/0.295/libexec/data/'
+    external_location = 'file:///hive/warehouse:/hive/data'
 );

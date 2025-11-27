@@ -1,0 +1,6 @@
+SELECT * FROM hive.local.products_for_sale;
+
+
+SELECT * FROM hive.local.sales_10000;
+WHERE quantity_sold > 1; 
+
