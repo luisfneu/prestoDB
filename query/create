@@ -1,0 +1,11 @@
+CREATE TABLE default.products (
+    id INTEGER,
+    product_name VARCHAR,
+    category VARCHAR,
+    price DOUBLE,
+    stock INTEGER
+)
+WITH (
+    format = 'CSV',
+    external_location = 'file:///opt/homebrew/Cellar/prestodb/0.295/libexec/data/'
+);
